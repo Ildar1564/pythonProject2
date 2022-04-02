@@ -14,4 +14,4 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 
-    peremennay = 10
+    peremennay = 18
